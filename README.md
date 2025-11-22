@@ -29,4 +29,3 @@ What autoencoders are used for:
 - Anomaly detection
 - Feature learning for usage in other tasks.
 
-Image generation (in extensions like variational autoencoders)
