@@ -4,7 +4,9 @@ This repo constructs various architectures of AutoEncoders Models for Image Reco
 
 ## Visaulization of the image reconstruction across the eopchs during training:
 
-<p align='center'>![real_time_reconstruction_per_epoch](https://github.com/user-attachments/assets/7722db5e-6f55-4a4f-8899-2c7dd5ffac10)</p>
+<p align="center">
+  <img src="real_time_reconstruction_per_epoch.gif" alt="Reconstruction GIF" />
+</p>
 
 ## What are Autoencoders?
 <p align='center'><img width="772" height="470" alt="image" src="https://github.com/user-attachments/assets/8a8f7759-ac76-4beb-b053-881861c3feac" /></p>
